@@ -96,3 +96,5 @@ php artisan serve
 # Access on browser
 
 http://127.0.0.1:8000/
+
+<img width="424" alt="image" src="https://user-images.githubusercontent.com/13635059/208239229-abbea573-5f6a-4b67-8a30-03d1f369d876.png">
